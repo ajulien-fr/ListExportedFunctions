@@ -1,5 +1,5 @@
 # ListExportedFunctions
 
-A Win32 GUI for list exported functions from a DLL.
+Un outil pour Windows avec GUI pour lister les fonctions exportées d'une DLL.
 
-![screenshot](https://github.com/juavenel/ListExportedFunctions/blob/master/screenshot.PNG)
+![screenshot](https://github.com/ajulien-fr/ListExportedFunctions/blob/master/screenshot.PNG)
